@@ -1,8 +1,8 @@
 # nodejs-api
 CURD api in nodejs
 
--git clone
+-git clone https://github.com/akhtarvahid/nodejs-api.git
 
--cd nodejs-api> npm instal
+-cd nodejs-api> npm install
 
 -cd nodejs-api> nodemon
